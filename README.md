@@ -1,59 +1,85 @@
-# Element: A Strategic Card Battler
-Developed by **Guy** | **Bigfoot Studios**
+<div align="center">
+  
+# 🌪️ Element: A Strategic Card Battler
 
-![Project Logo](path/to/your/bigfoot_studios_logo.png)
+**Developed by Guy | Bigfoot Studios**
 
-## 🌪️ Overview
+<img src="media/image1.png" alt="Element Header" width="100%"/>
+
+</div>
+
+## 📖 Overview
 **Element** is a strategic card game built in **Unity** that challenges players to master elemental synergies. This project serves as a comprehensive showcase of custom UI systems, modular card architecture, and turn-based game logic.
 
-### Core Features
-* **Elemental Synergy:** Unique interactions between card types (Fire, Water, Earth, Air).
-* **Dynamic UI:** A custom-built interface designed for intuitive drag-and-drop gameplay.
-* **Modular Card System:** Data-driven card creation using ScriptableObjects.
+### ✨ Core Features
+- **Elemental Synergy:** Unique interactions between card types (Fire, Water, Earth, Air).
+- **Dynamic UI:** A custom-built interface designed for intuitive drag-and-drop gameplay.
+- **Modular Card System:** Data-driven card creation using ScriptableObjects.
 
 ---
 
 ## 🎮 Gameplay Demo
-### Video Walkthrough
 
-> **Note:** If you have a short `.mp4` file in your repo, you can embed it directly:
-> <video src="Element Video 2.mp4" width="700"></video>
+Experience the dynamic turn-based combat and elemental interactions in action:
+
+<div align="center">
+  <video src="media/Video.mp4" width="100%" controls></video>
+</div>
 
 ---
 
 ## 📸 Visual Showcase
 
-### In-Game Screenshots
-| Battle Arena | Main Menu |
-| :---: | :---: |
-| ![Battle](Screenshot (32).png) | ![Menu](path/to/menu_screenshot.png) |
+Explore the game's intuitive interface, custom card design, and battle arenas.
 
-### Asset Design
-* **Custom Icons:** All elemental icons and card frames were designed to reflect a [mention your style, e.g., "minimalist/dark"] aesthetic.
-* **UI Feedback:** Real-time visual cues for valid moves and card effects.
+<div align="center">
+  <img src="media/image2.png" width="49%" alt="Showcase Image 2"/>
+  <img src="media/image3.png" width="49%" alt="Showcase Image 3"/>
+</div>
+<br>
+<div align="center">
+  <img src="media/image4.png" width="49%" alt="Showcase Image 4"/>
+  <img src="media/image5.png" width="49%" alt="Showcase Image 5"/>
+</div>
+<br>
+<div align="center">
+  <img src="media/image6.png" width="100%" alt="Showcase Image 6"/>
+</div>
+
+### 🎨 Asset Design
+- **Custom Elements:** Card frames and icons were meticulously designed to reflect a cohesive, mystical aesthetic.
+- **Real-Time UI Feedback:** Clear visual cues to indicate valid moves, active effects, and turn states.
 
 ---
 
 ## 🛠️ Technical Implementation
-This project demonstrates several key software engineering and game dev patterns:
+This project was developed with a focus on clean architecture and maintainability, demonstrating several key game development patterns:
 
-* **State Machine Logic:** Managed complex turn-based transitions (Draw -> Main -> Combat -> End).
-* **ScriptableObjects:** Used for card data to allow for easy balancing and addition of new elements without changing code.
-* **Event-Driven Architecture:** Utilized C# Actions/Events for UI updates to keep gameplay logic decoupled from the view.
-* **Hand Management:** Algorithms for card spacing, rotation, and selection logic in the player's hand.
+- **State Machine Logic:** Robust management of complex turn-based transitions (Draw &rarr; Main &rarr; Combat &rarr; End).
+- **ScriptableObjects:** Streamlined data-driven design for card balancing and the addition of new elemental cards without altering core logic.
+- **Event-Driven Architecture:** Utilized C# Actions/Events for UI updates, ensuring gameplay logic remains entirely decoupled from the view layer.
+- **Hand Management:** Custom algorithms for dynamic card spacing, rotation, and selection logic within the player's hand.
 
 ---
 
 ## 🚀 Getting Started
+
+To explore the project locally:
+
 1. Clone this repository.
-2. Open the project in **Unity [Your Version, e.g., 2022.3 LTS]**.
-3. Open the scene located at `Assets/Scenes/Main.unity`.
-4. Press **Play** in the Unity Editor.
+2. Open the project in **Unity**. *(Recommended: 2022.3 LTS or newer)*
+3. Navigate to `Assets/Scenes/Main.unity` and open the scene.
+4. Press **Play** in the Unity Editor to start battling!
 
 ---
 
 ## 👨‍💻 About the Developer
-I am a Computer Science student at **Reichman University** with a passion for game development and martial arts. **Element** is a culmination of my interests in strategic logic and interactive design.
 
----
-*Created by [Guy](https://github.com/your-github-username)*
+<div align="center">
+
+I am a Computer Science student at **Reichman University** with a passion for game development and martial arts. **Element** is a culmination of my deep interest in strategic logic, interactive systems, and clean software design.
+
+**[Guy](https://github.com/guy)**  
+*Creating engaging experiences at Bigfoot Studios*
+
+</div>
