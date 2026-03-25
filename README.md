@@ -2,7 +2,7 @@
 
 <img src="media/Bigfoot%20Studios%20Logo.png" width="100" alt="Bigfoot Studios Logo"/>
   
-# 🌪️ Element: A Strategic Card Battler
+# Element: A Strategic Card Battler
 
 **Developed by Guy | Bigfoot Studios**
 
@@ -17,14 +17,6 @@
 - **Elemental Synergy:** Unique interactions between card types (Fire, Water, Earth, Air).
 - **Dynamic UI:** A custom-built interface designed for intuitive drag-and-drop gameplay.
 - **Modular Card System:** Data-driven card creation using ScriptableObjects.
-
----
-
-## 🎮 Gameplay Demo
-
-Experience the dynamic turn-based combat and elemental interactions in action:
-
-<video src="media/Video.mp4" controls="controls" width="100%"></video>
 
 ---
 
