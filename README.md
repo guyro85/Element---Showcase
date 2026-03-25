@@ -1,10 +1,12 @@
 <div align="center">
+
+<img src="media/Bigfoot%20Studios%20Logo.png" width="100" alt="Bigfoot Studios Logo"/>
   
 # 🌪️ Element: A Strategic Card Battler
 
 **Developed by Guy | Bigfoot Studios**
 
-<img src="media/image1.png" alt="Element Header" width="100%"/>
+<img src="media/image4.png" alt="Element Header" width="100%"/>
 
 </div>
 
@@ -22,9 +24,7 @@
 
 Experience the dynamic turn-based combat and elemental interactions in action:
 
-<div align="center">
-  <video src="media/Video.mp4" width="100%" controls></video>
-</div>
+<video src="media/Video.mp4" controls="controls" width="100%"></video>
 
 ---
 
@@ -38,7 +38,7 @@ Explore the game's intuitive interface, custom card design, and battle arenas.
 </div>
 <br>
 <div align="center">
-  <img src="media/image4.png" width="49%" alt="Showcase Image 4"/>
+  <img src="media/image1.png" width="49%" alt="Showcase Image 4"/>
   <img src="media/image5.png" width="49%" alt="Showcase Image 5"/>
 </div>
 <br>
@@ -59,17 +59,6 @@ This project was developed with a focus on clean architecture and maintainabilit
 - **ScriptableObjects:** Streamlined data-driven design for card balancing and the addition of new elemental cards without altering core logic.
 - **Event-Driven Architecture:** Utilized C# Actions/Events for UI updates, ensuring gameplay logic remains entirely decoupled from the view layer.
 - **Hand Management:** Custom algorithms for dynamic card spacing, rotation, and selection logic within the player's hand.
-
----
-
-## 🚀 Getting Started
-
-To explore the project locally:
-
-1. Clone this repository.
-2. Open the project in **Unity**. *(Recommended: 2022.3 LTS or newer)*
-3. Navigate to `Assets/Scenes/Main.unity` and open the scene.
-4. Press **Play** in the Unity Editor to start battling!
 
 ---
 
