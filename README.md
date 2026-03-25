@@ -15,19 +15,18 @@ Developed by **Guy** | **Bigfoot Studios**
 
 ## 🎮 Gameplay Demo
 ### Video Walkthrough
-[Click here to watch the full gameplay demo](YOUR_YOUTUBE_OR_VIMEO_LINK_HERE)
 
 > **Note:** If you have a short `.mp4` file in your repo, you can embed it directly:
-> <video src="path/to/your/demo_video.mp4" width="700"></video>
+> <video src="Element Video 2.mp4" width="700"></video>
 
 ---
 
 ## 📸 Visual Showcase
 
 ### In-Game Screenshots
-| Battle Arena | Deck Builder | Main Menu |
-| :---: | :---: | :---: |
-| ![Battle](path/to/battle_screenshot.png) | ![Deck](path/to/deck_screenshot.png) | ![Menu](path/to/menu_screenshot.png) |
+| Battle Arena | Main Menu |
+| :---: | :---: |
+| ![Battle](Screenshot (32).png) | ![Menu](path/to/menu_screenshot.png) |
 
 ### Asset Design
 * **Custom Icons:** All elemental icons and card frames were designed to reflect a [mention your style, e.g., "minimalist/dark"] aesthetic.
